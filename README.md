@@ -1,5 +1,5 @@
 # HTT
- Exercícios.
+ Exercícios feitos para obter a Capacitação em Python do programa High Tech Talents.
  
 ## Lista
 
