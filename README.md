@@ -25,6 +25,19 @@ Exercícios feitos para obter a Capacitação em Python do programa High Tech Ta
   * Prazo: 26/04/2022. 
 
 ## Resultados
+* 01
+```python
+#Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
+ celsius = float(input("Digite a temperatura em graus Celsius: "))
+ fahrenheit = ((celsius * 9) / 5) + 32
+ print("A temperatura em graus Fahrenheit é ", fahrenheit)
+
+```
+* 04
+<img src="Outros/Modelo_Logico.png" width="500">
+
+* 07
+<img src="Outros/CRUD.png" width="500">
 
 ## Ferramentas Utilizadas
 
