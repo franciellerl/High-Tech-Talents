@@ -1,7 +1,7 @@
-# HTT
- Exercícios feitos para obter a Capacitação em Python do programa High Tech Talents.
+# Programa High Tech Talents
+Exercícios feitos para obter a Capacitação em Python do programa High Tech Talents, promovido pela Share People Hub. O repositório reúne atividades práticas desenvolvidas durante o curso, abordando conceitos fundamentais de Python e resolução de problemas com programação.
  
-## Lista
+## Listaagem de Exercícios
 
 * [Lista 01](https://github.com/franciellerl/High-Tech-Talents-01/tree/main/%2301%20Estrutura%20Sequencial) (#01 Estrutura Sequencial)
   * Consiste nas 10 primeiras questões da [lista de Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial) da PythonBrasil. Prazo: 21/03/2022.
@@ -23,3 +23,16 @@
 
 * [Projeto Final: versão com flask](https://github.com/franciellerl/High-Tech-Talents-01/tree/main/%2307%20CRUD%20Flask) (#07 CRUD Flask)
   * Prazo: 26/04/2022. 
+
+## Resultados
+
+## Ferramentas Utilizadas
+
+* Python
+* CSS/HTML
+* Flask
+* SQLAlchemy
+* Github
+
+## Competências Demonstradas
+Desenvolvimento de lógica de programação em Python, aplicação de conceitos de programação orientada a objetos, criação de aplicações web básicas com Flask, utilização de SQLAlchemy para integração com banco de dados e elaboração de diagramas para modelagem de sistemas.
