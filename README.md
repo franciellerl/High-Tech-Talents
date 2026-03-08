@@ -1,8 +1,7 @@
 # Programa High Tech Talents
 Exercícios feitos para obter a Capacitação em Python do programa High Tech Talents, promovido pela Share People Hub. O repositório reúne atividades práticas desenvolvidas durante o curso, abordando conceitos fundamentais de Python e resolução de problemas com programação.
  
-## Listaagem de Exercícios
-
+## Listagem de Exercícios
 * [Lista 01](https://github.com/franciellerl/High-Tech-Talents-01/tree/main/%2301%20Estrutura%20Sequencial) (#01 Estrutura Sequencial)
   * Consiste nas 10 primeiras questões da [lista de Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial) da PythonBrasil. Prazo: 21/03/2022.
 
@@ -40,7 +39,6 @@ Exercícios feitos para obter a Capacitação em Python do programa High Tech Ta
 <img src="Outros/CRUD.png" width="500">
 
 ## Ferramentas Utilizadas
-
 * Python
 * CSS/HTML
 * Flask
